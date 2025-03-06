@@ -27,11 +27,11 @@
 [![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=DhruvChadha22&hide_border=true&show_icons=true&bg_color=151515&title_color=06cf58&icon_color=06cf58&text_bold=false&text_color=9e9e9e)](https://github.com/anuraghazra/github-readme-stats)
 
 ### GSSOC(24) Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>
-<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
+<div style='display:flex; align-items:center; gap: 15px;' align='center'>
+  <img src="https://github.com/DhruvChadha22/DhruvChadha22/blob/main/images/postman-badge.png" width="150px" height="150px" />
+  <img src="https://github.com/DhruvChadha22/DhruvChadha22/blob/main/images/explorer-badge.png" width="150px" height="150px" />
+  <img src="https://github.com/DhruvChadha22/DhruvChadha22/blob/main/images/adventurer-badge.png" width="150px" height="150px" />
+  <img src="https://github.com/DhruvChadha22/DhruvChadha22/blob/main/images/trailblazer-badge.png" width="150px" height="150px" />
+  <img src="https://github.com/DhruvChadha22/DhruvChadha22/blob/main/images/summit-seeker-badge.png" width="150px" height="150px" />
+  <img src="https://github.com/DhruvChadha22/DhruvChadha22/blob/main/images/champion-badge.png" width="150px" height="150px" />
 </div>
