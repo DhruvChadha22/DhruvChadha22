@@ -28,10 +28,10 @@
 
 ### GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 15px;' align='center'>
-  <img src="https://github.com/DhruvChadha22/DhruvChadha22/blob/main/images/postman-badge.png" width="150px" height="150px" />
-  <img src="https://github.com/DhruvChadha22/DhruvChadha22/blob/main/images/explorer-badge.png" width="150px" height="150px" />
-  <img src="https://github.com/DhruvChadha22/DhruvChadha22/blob/main/images/adventurer-badge.png" width="150px" height="150px" />
-  <img src="https://github.com/DhruvChadha22/DhruvChadha22/blob/main/images/trailblazer-badge.png" width="150px" height="150px" />
-  <img src="https://github.com/DhruvChadha22/DhruvChadha22/blob/main/images/summit-seeker-badge.png" width="150px" height="150px" />
-  <img src="https://github.com/DhruvChadha22/DhruvChadha22/blob/main/images/champion-badge.png" width="150px" height="150px" />
+  <img src="https://github.com/DhruvChadha22/DhruvChadha22/blob/main/images/postman-badge.png" width="130px" height="130px" />
+  <img src="https://github.com/DhruvChadha22/DhruvChadha22/blob/main/images/explorer-badge.png" width="130px" height="130px" />
+  <img src="https://github.com/DhruvChadha22/DhruvChadha22/blob/main/images/adventurer-badge.png" width="130px" height="130px" />
+  <img src="https://github.com/DhruvChadha22/DhruvChadha22/blob/main/images/trailblazer-badge.png" width="130px" height="130px" />
+  <img src="https://github.com/DhruvChadha22/DhruvChadha22/blob/main/images/summit-seeker-badge.png" width="130px" height="130px" />
+  <img src="https://github.com/DhruvChadha22/DhruvChadha22/blob/main/images/champion-badge.png" width="130px" height="130px" />
 </div>
